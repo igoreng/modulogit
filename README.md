@@ -1,3 +1,5 @@
 Aprendendo a usar GIT de forma mais efetiva.
 
-Mudança no Master.
+Observar as mudanças
+
+Nova linha de teste.
